@@ -1,5 +1,5 @@
 # APPUM
-The paper is accepted by the IEEE Transactions on Cybernetics(IF = 10.387).
+The paper is accepted by the IEEE Transactions on Cybernetics (IF = 10.387).
 
 # Authors
 Sha Zhao (Zhejiang University); Gang Pan (Zhejiang University); <strong>Jianrong Tao (NetEase Fuxi AI Lab)</strong>; Zhiling Luo (Zhejiang University); Shijian Li (Zhejiang University) and Zhaohui Wu (Zhejiang University)
